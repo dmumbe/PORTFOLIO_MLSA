@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{dmumbe}.github.io/{PORTFOLIO_MLSA} ",
+  "homepage": "http://dmumbe.github.io/PORTFOLIO_MLSA ",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{dmumbe}.github.io/{PORTFOLIO_MLSA}'",
+    "build-gh": "parcel build --public-url 'https://dmumbe.github.io/PORTFOLIO_MLSA'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
