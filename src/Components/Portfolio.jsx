@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/back-pic.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Individual Portfolio",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created my own portfolio website.",
+    url: "https://mumbe.spaceedafrica.org/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Space-Ed Africa Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Collaborated on the creation of the Space-Ed Africa Organization website",
+    url: "https://www.spaceedafrica.org/",
   },
   {
-    title: "My Resume Site",
+    title: "Automax Car Listing App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Built a car listing app based on Django framework",
+    url: "https://github.com/Kim3072/Automax-Django",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title:"Academia and Artificial Intelligence",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Medium Blog",
+    url: "https://medium.com/@queenmumbe/academia-and-artificial-intelligence-ai-friends-or-foes-812386ceb8bc",
   },
 ];
 

@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/backg.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Informations Systems Technology student studying at Barnett United States International University-Africa. I excel at turning ambiguous ideas into simple concepts especially with the use of the tools provided by innovative technologies.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web developper",
+  "UI/UX Designere",
+  "Project Manager",
+  "Data Analyst",
+  "Painter",
+  
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "With over 2 years of substantial experience in marketing, I bring a strong foundation in using technology as a tool for work and continuous learning. My leadership skills have allowed me to take initiative in project management, demonstrating my ability to plan, organize, and structure tasks effectively. Adept at public speaking and adaptable to dynamic environments, I enjoy nourishing cultural diversity and promoting it as a strength.";
 
 const About = () => {
   return (
